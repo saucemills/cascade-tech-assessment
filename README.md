@@ -8,6 +8,8 @@ The other big part of the project is the Vuex store and the index.js and modules
 
 The compontent is a display of all the pertinent account information I think would be important to the customer(account number, transaction dates, merchants, debit/credit/amount, and beginning and ending balances). I wasn't sure if the posted transaction was included in the balance displayed or not so I used the only balance given as the beginning balance and computed at the bottom the balance after the posted transaction and the balance after all transaction, since I'm assuming "unsettled transactions" are pending transactions and not declined transactions.
 
+With more time, I would have aligned everything more properly, the amounts were making the alignment a little off. I also would have styled the component to make it look better since I was focusing on just getting it working this time around.
+
 I had fun doing this. Please let me know if you have any other questions on this submission.
 
 Thank you.
